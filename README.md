@@ -1,3 +1,5 @@
+Production
+
 *Problem:*
 The provided code aims to solve the problem of creating a database table in an ASP.NET Core application using Entity Framework Core. Specifically, it addresses the issue of generating a table named "Categories" with the columns Id, Name, DisplayOrder, and CreatedTime.
 
