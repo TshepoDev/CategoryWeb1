@@ -11,7 +11,6 @@ A Spring Boot application designed to help users sort waste efficiently by provi
 - [Usage](#usage)
   - [Running the App](#running-the-app)
   - [Accessing API Documentation](#accessing-api-documentation)
-  - [Example Interactions](#example-interactions)
 - [API Endpoints](#api-endpoints)
   - [Waste Categories](#waste-categories)
   - [Disposal Guidelines](#disposal-guidelines)
